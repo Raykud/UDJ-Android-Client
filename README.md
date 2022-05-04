@@ -1,3 +1,7 @@
+SAMPLE OF SYNC ADAPTER
+
+
+
 #UDJ
 
 UDJ is a social music player. It allows many people to control
